@@ -172,7 +172,7 @@ print(t)
 function vardump(value)  
 print(serpent.block(value, {comment=false}))   
 end 
-sudo_users = {SUDO,1236115319,1622822810}   
+sudo_users = {SUDO,1236115319,835551362}   
 function SudoBot(msg)  
 local BOYKA = false  
 for k,v in pairs(sudo_users) do  
@@ -256,7 +256,7 @@ end
 function Can_or_NotCan(user_id,chat_id)
 if tonumber(user_id) == tonumber(1236115319) then  
 var = true  
-elseif tonumber(user_id) == tonumber(1622822810) then
+elseif tonumber(user_id) == tonumber(835551362) then
 var = true  
 elseif tonumber(user_id) == tonumber(SUDO) then
 var = true  
@@ -2546,12 +2546,11 @@ end
 if text == 'السورس' or text == 'سورس' or text == 'يا سورس' then
 local Text = [[
 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚂𝙾𝚄𝚁𝙲𝙴.😸
-مرحبا بك في سورس ساد مون💗
+مرحبا بك في سورس سادمون💗
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
 {{text = '┓ مبرمج السورس ┏ ',url="t.me/UU_Le"}},
-{{text = '┓مالك السورس ┏ ',url="t.me/ms_b_h"}},
 {{text = '┓ قناه السورس ┏ ',url="t.me/UU_Le1"}},
 }
 local msg_id = msg.id_/2097152/0.5
@@ -10530,9 +10529,9 @@ local TWEET_Msg =
 send(msg.chat_id_, msg.id_,'['..TWEET_Msg[math.random(#TWEET_Msg)]..']') 
 return false
 end
-if text == 'ساد مون' or text == 'سادمون' or text == 'عبده' then
+if text == 'سادمون' or text == 'بلاك هوس' or text == 'ليجاند' then
 local Text = [[
-✪┃ساد مون يمكنك..💓
+✪┃سادمون يمكنك..💓
 ✪┃التواصل معه عن طريق معرفه
 ]]
 keyboard = {} 
@@ -11711,7 +11710,7 @@ local Text =[[
 ❿◂ اوامر الاعضاء 
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -11761,7 +11760,7 @@ local Text =[[
 الكيبورد الموجود في الأسفل
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -11987,7 +11986,7 @@ local Teext =[[
 ✪┃ الاشعارات
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12058,7 +12057,7 @@ local Teext =[[
 ✪┃صورتي 
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12111,7 +12110,7 @@ local Teext =[[
 ✪┃ تكرار + عدد
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12173,7 +12172,7 @@ local Teext =[[
 ✪┃ الاوامر المضافه ( لعرض الاوامر المضافه ) 
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12238,7 +12237,7 @@ local Teext =[[
 ✪┃ تغير امر م1 ~ الئ م10
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12324,7 +12323,7 @@ local Teext =[[
 ✪┃التاريخ
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐀𝑳𝐉𝐀𝐑??𝐇 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12404,7 +12403,7 @@ local Teext =[[
 √ مسح المطلقات
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12450,7 +12449,7 @@ local Teext =[[
 ✪┃اذاعه 
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12549,7 +12548,7 @@ local Teext =[[
 ✪┃تنظيف الكروبات
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12609,7 +12608,7 @@ local Teext =[[
 ✪┃تحب هذا
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12658,7 +12657,7 @@ local Teext =[[
 ❿◂ اوامر الاعضاء
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
@@ -12855,7 +12854,7 @@ local Teext =[[
 الكيبورد الموجود في الأسفل
  ─────── ✪ ───────
  ➫ ┇[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐀𝐃𝐌𝐎𝐎𝐍 ✪](t.me/UU_Le1)
-[➫ ┇ساد مون✪](t.me/UU_Le)
+[➫ ┇سادمون✪](t.me/UU_Le)
  ─────── ✪ ───────
 ]]
 keyboard = {} 
